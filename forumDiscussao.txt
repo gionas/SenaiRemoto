@@ -1,0 +1,24 @@
+<h1>Fórum de Discussão</h1>
+
+Tema: Boas Práticas para versionamento de códigos
+ 
+Para usufruir das vantagens de uma ferramenta de controle de versão, é preciso saber utilizá-la para que facilite o processo de desenvolvimento de códigos.
+ 
+Existem algumas práticas que contribuem para otimizar ainda mais essa ferramenta. 
+ 
+Vamos conhecê-las juntos?
+ 
+Por exemplo, uma boa prática é:
+ 
+* Toda alteração deve ser acompanhada de um comentário.
+ 
+Agora é com você!
+ 
+- Faça uma pesquisa sobre as boas práticas que podem ser aplicadas no versionamento de códigos.
+ 
+- Selecione ao menos uma prática e compartilhe sua sugestão aqui no fórum.
+ 
+Como fonte de pesquisa, você pode utilizar a internet,
+acessando sites e blogs, que discorram sobre esse assunto, ou também entrevistar profissionais da área.
+ 
+Se você utilizar a internet, lembre-se de selecionar fontes confiáveis, além de ler e analisar cuidadosamente a informação antes de compartilhá-la.

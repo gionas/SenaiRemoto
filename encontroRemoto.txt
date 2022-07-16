@@ -1,0 +1,25 @@
+Encontro Remoto 
+
+Na atividade anterior, você realizou a instalação do GIT, criou um arquivo para ser alterado e rastreado, publicou esse arquivo no repositório online GitHub, realizou alterações 
+e publicou o arquivo README.md -com os principais comandos utilizados para gerenciar o versionamento de código no repositório remoto.Para concluir a resolução da situação-problema, 
+você trabalhará colaborativamente no mesmo repositório que um outro colega, ou seja,  trabalhará com várias tarefas e trechos de códigos simultaneamente com outros programadores,
+usando os recursos de branch e trunk.
+ 
+Para resolver essa atividade,  estude os conteúdos do material digital, sobretudo do desafio 3, com o passo o passo para realizar a conciliação de alterações em um
+mesmo repositório.
+ 
+Essa atividade será conduzida pelo seu professor tutor em um encontro remoto.
+ 
+Portanto, consulte os avisos de confirmação da data e horário aqui no AVA, na aba "Encontros Presenciais/Remotos". 
+ 
+Durante o encontro, fique atento:
+ 
+- Às orientações da atividade oferecidas pelo professor tutor para executar a atividade.
+- Às capacidades envolvidas nessa atividade, a qualidade do trabalho e os critérios de avaliação.
+- Ao prazo de entrega da atividade.
+ 
+Estabeleça diálogo com o professor tutor e com os demais colegas de turma, com cordialidade e respeito.
+ 
+Aproveite este momento para tirar todas as suas dúvidas.
+ 
+Ao final da atividade, compartilhe aqui o resultado do seu trabalho, publicando aqui o link do repositório remoto e do arquivo README.md criados, para que o tutor possa avaliar seu trabalho.
