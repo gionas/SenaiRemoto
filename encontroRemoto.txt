@@ -1,4 +1,4 @@
-Encontro Remoto 
+Encontro Remoto  Alteração
 
 Na atividade anterior, você realizou a instalação do GIT, criou um arquivo para ser alterado e rastreado, publicou esse arquivo no repositório online GitHub, realizou alterações 
 e publicou o arquivo README.md -com os principais comandos utilizados para gerenciar o versionamento de código no repositório remoto.Para concluir a resolução da situação-problema, 
