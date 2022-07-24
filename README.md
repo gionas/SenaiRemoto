@@ -2,9 +2,6 @@
 
 Principais Comandos:
 
-# SenaiRemoto => Encontro Remoto:
-
-
 git init = Criaaestrutura inicial do repositório Git no computador local. <br>
 git status = Verificaostatus das alterações realizadas no repositório. <br>
 git add = Adiciona arquivos ao histórico do projeto,na staging.<br>
