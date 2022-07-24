@@ -1,6 +1,8 @@
-Situação-Problema Alteração Versão 2:
+Situação-Problema Alteração Versão 3:
 
-Seguindo a sequencia de alterações no arquivo vamos fazer uma alteração e dar um push do remoto para o local.
+
+V2-> Seguindo a sequencia de alterações no arquivo vamos fazer uma alteração e dar um push do remoto para o local.
+V3-> So fiz essa alteração para corrigir o nome do commit e manter uma logica nos nomes dos commit 
 
 Você foi contratado como programador por uma empresa de desenvolvimento de software, chamada Hroad, que está realizando alterações no fluxo de trabalho de seus programadores, a fim de manter a 
 integridade do código-fonte de seus softwares/solução. Um dos atuais problemas é a necessidade de alteração de um código-fonte por diversos programadores. Quando duas ou mais pessoas precisam 
