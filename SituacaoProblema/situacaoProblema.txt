@@ -1,5 +1,3 @@
-Situação-Problema alteração
-
 Você foi contratado como programador por uma empresa de desenvolvimento de software, chamada Hroad, que está realizando alterações 
 no fluxo de trabalho de seus programadores, a fim de manter a integridade do código-fonte de seus softwares/solução. Um dos atuais 
 problemas é a necessidade de alteração de um código-fonte por diversos programadores. Quando duas ou mais pessoas precisam alterar 
@@ -18,4 +16,3 @@ gerenciamento de alterações no código.
 
 • Realizar a conciliação de alterações em um mesmo repositório.
 
-Para resolver esses desafios, estude o material digital, participe do fórum de discussão e realize as atividades propostas.
